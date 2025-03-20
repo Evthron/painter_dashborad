@@ -1,5 +1,7 @@
 # 🎨 Streamlit Painter Progress Tracker
 
+![Screenshot_20250321_072918](https://github.com/user-attachments/assets/d5e80f71-de65-42f3-ba9f-17f502ecb757)
+
 A visual dashboard for tracking artistic progress through thumbnail visualizations and statistical analysis of sketchbook/digital artwork.
 
 ## ✨ Features
@@ -29,7 +31,7 @@ A visual dashboard for tracking artistic progress through thumbnail visualizatio
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/painter-progress-tracker.git
+git clone https://github.com/Evthron/painter-progress-tracker.git
 cd painter-progress-tracker
 
 # Install dependencies
