@@ -1,10 +1,11 @@
 # 🎨 Streamlit Painter Progress Tracker
 
-![Screenshot_20250321_072918](https://github.com/user-attachments/assets/d5e80f71-de65-42f3-ba9f-17f502ecb757)
+![Screenshot_20250321_073129](https://github.com/user-attachments/assets/0b8c6cf9-f5bc-4b66-8cb9-a8311ab7bcd9)
 
 A visual dashboard for tracking artistic progress through thumbnail visualizations and statistical analysis of sketchbook/digital artwork.
 
 ## ✨ Features
+
 
 - **Progress Visualization**
   - Thumbnail-based progress bars
